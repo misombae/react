@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import TOC from './component/TOC';
 import Content  from './component/Content';
-import Content  from './component/Subject';
+import Subject  from './component/Subject';
 
 
 class App extends Component {
