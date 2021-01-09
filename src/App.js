@@ -1,5 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import React, {Component} from 'react';
+
+
+class Subject extends Component {
+  render() {
+    return ();
+  }
+}
+
 
 function App() {
   return (
