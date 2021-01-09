@@ -1,3 +1,27 @@
+# Hello, React!
+
+[https://reactjs.org/](https://reactjs.org/)
+
+리액트 개발환경 세팅
+[https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)
+
+크롬 리액트 개발자도구
+[https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
+PROPS  설명
+[https://reactjs.org/tutorial/tutorial.html#passing-data-through-props](https://reactjs.org/tutorial/tutorial.html#passing-data-through-props)
+
+component: 가독성, 재사용성 
+
+state vs props:
+component의 외부에 props 
+props에 따라서 실제로 구현한 내부의 state (격리)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
